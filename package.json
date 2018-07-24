@@ -30,7 +30,7 @@
     }
   ],
   "dependencies": {
-    "jquery": ">=1.7"
+    "jquery": "~2.2.4"
   },
   "devDependencies": {
     "chai": "^1.9.1",
